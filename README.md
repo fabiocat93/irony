@@ -46,4 +46,4 @@ Contributions are welcome. Please refer to ```CONTRIBUTING.md``` for guidelines.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-Thank you. 
+Thank you. @micol culo.
