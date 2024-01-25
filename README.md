@@ -5,10 +5,10 @@ This repository contains the code for an exploratory study on detecting irony in
 ## Repository Structure
 The repository is organized into several key directories and files:
 
-```code/```: Contains all the source code.
-```data/```: Includes datasets used for training and testing.
-```docs/```: Documentation and related materials.
-```results/```: Output results and analysis reports.
+- ```code/```: Contains all the source code.
+- ```data/```: Includes datasets used for training and testing.
+- ```docs/```: Documentation and related materials.
+- ```results/```: Output results and analysis reports.
 
 ## Resources
 - https://drive.google.com/drive/folders/1kXtpih2GjbVcwdJqG-Z4S_hNACHtaRzl
