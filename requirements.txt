@@ -4,3 +4,4 @@ torchaudio
 opensmile
 ffmpeg-python
 pyloudnorm
+scikit-learn
